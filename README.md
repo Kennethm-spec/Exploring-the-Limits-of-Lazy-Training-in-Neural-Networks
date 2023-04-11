@@ -1,4 +1,4 @@
-# Spotify-Collaborative-Playlist-Generator
+# Limits of Lazy Training
 Mathematics of Deep Learning project by: [Maddie](https://theuselessweb.com/), [Sam](https://github.com/sdb2174), and [Kenneth](https://github.com/Kennethm-spec).
 
 
