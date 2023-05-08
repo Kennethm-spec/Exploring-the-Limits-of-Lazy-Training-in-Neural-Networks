@@ -7,8 +7,8 @@ by: [Maddie](https://theuselessweb.com/), [Sam](https://github.com/sdb2174), and
 This repository contains codes for:
 
 1. Exploring lazy training with a synthetic dataset and a single hidden layer.
-2. Exploring lazy training with the MNIST dataset and a single hidden layer.
-3. Exploring lazy training with the MNIST dataset and a multiple hidden layers to involve depth in our analysis.
+2. Exploring lazy training with a synthetic dataset and multiple hidden layers.
+3. Exploring lazy training with the MNIST dataset.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -44,4 +44,4 @@ Code for training and performane evaluation of Lazy Training methods synthetic a
 ## Results
 A final evaluation is concluded in our report:
 
-* [Exploring Lazy Training in Deep Feedforward Neural_Networks](Paper.pdf)
+* [Exploring Lazy Training in Deep Feedforward Neural Networks](Mathematics_of_Deep_Learning_Project_Report.pdf)
