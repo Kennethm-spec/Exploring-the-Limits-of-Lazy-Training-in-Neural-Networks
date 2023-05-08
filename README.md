@@ -16,18 +16,18 @@ This repository contains codes for:
 
 ## About The Project
 
-Deep neural networks have revolutionized machine learning and are gaining sig-
-nificant press for their potential applications on a wide range of tasks. In recent
-work, a ‘lazy training’ regime has been documented, in which the weights of a heav-
-ily over-parameterized network do not move significantly during training but remain
-close to their random initialization. This allows the network to avoid overfitting and
-reduces the heavy computational cost traditionally associated with training deep
+Deep neural networks have revolutionized machine learning and are gaining significant
+press for their potential applications on a wide range of tasks. In recent work,
+a ‘lazy training’ regime has been documented, in which the weights of a heavily
+over-parameterized network do not move significantly during training but remain
+close to their random initialization. This allows the network to avoid overfitting
+and reduces the heavy computational cost traditionally associated with training deep
 neural networks. In this project, we confirm the existence of lazy training through
 experiments with random synthetic data and establish a level of significance for
 weight movement to classify when the lazy training regime is in effect. This allows
-us to determine how over-parameterized a network must be for lazy training to oc-
-cur. Furthermore, we explore applying lazy training to networks deeper than one
-hidden layer, on both the synthetic data and the MNIST dataset.
+us to determine how over-parameterized a network must be for lazy training to occur.
+Furthermore, we explore applying lazy training to networks deeper than one hidden
+layer, on both the synthetic data and the MNIST dataset.
 
 ## Training & Performance Evaluation
 
