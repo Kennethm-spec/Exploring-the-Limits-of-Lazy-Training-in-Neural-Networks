@@ -6,7 +6,9 @@ by: [Maddie](https://theuselessweb.com/), [Sam](https://github.com/sdb2174), and
 
 This repository contains codes for:
 
-1. Exploring the lazy training.
+1. Exploring lazy training with a synthetic dataset and a single hidden layer.
+2. Exploring lazy training with the MNIST dataset and a single hidden layer.
+3. Exploring lazy training with the MNIST dataset and a multiple hidden layers to involve depth in our analysis.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -40,4 +42,6 @@ Code for training and performane evaluation of Lazy Training methods synthetic a
 4. Sample Loss: [sample_loss.ipynb](src/tensorflow_code/sample_loss.ipynb)
 
 ## Results
-A final evaluation is concluded in our report.
+A final evaluation is concluded in our report:
+
+* [Exploring Lazy Training in Deep Feedforward Neural_Networks](Paper.pdf)
