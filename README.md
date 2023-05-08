@@ -33,6 +33,7 @@ layer, on both the synthetic data and the MNIST dataset.
 
 Code for training and performane evaluation of Lazy Training methods synthetic and structured data can be found in following files:
 
-1. Single Layer:  [Synthetic_single_layer.ipynb](Synthetic_single_layer.ipynb)
+1. Single Layer:  [synthetic_single_layer.ipynb](synthetic_single_layer.ipynb)
 2. Two Layer: [two_layer.ipynb](two_layer.ipynb)
 3. Three Layer: [three_layer.ipynb](three_layer.ipynb)
+4. Sample Loss: [sample_loss.ipynb](sample_loss.ipynb)
