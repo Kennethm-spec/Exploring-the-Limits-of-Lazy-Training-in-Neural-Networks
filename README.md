@@ -12,7 +12,7 @@ This repository contains codes for:
 ## Table of Contents
 
 * [About](#about-the-project)
-* [Training & Performance Evaluation](#about-the-project)
+* [Training & Performance Evaluation](#training-and-performance-evaluation)
 
 ## About The Project
 
@@ -29,11 +29,14 @@ us to determine how over-parameterized a network must be for lazy training to oc
 Furthermore, we explore applying lazy training to networks deeper than one hidden
 layer, on both the synthetic data and the MNIST dataset.
 
-## Training & Performance Evaluation
+## Training And Performance Evaluation
 
 Code for training and performane evaluation of Lazy Training methods synthetic and structured data can be found in following files:
 
-1. Single Layer:  [synthetic_single_layer.ipynb](synthetic_single_layer.ipynb)
-2. Two Layer: [two_layer.ipynb](two_layer.ipynb)
-3. Three Layer: [three_layer.ipynb](three_layer.ipynb)
-4. Sample Loss: [sample_loss.ipynb](sample_loss.ipynb)
+1. Single Layer:  [synthetic_single_layer.ipynb](src/pytorch_code/synthetic_single_layer.ipynb)
+2. Two Layer: [two_layer.ipynb](src/tensorflow_code/two_layer.ipynb)
+3. Three Layer: [three_layer.ipynb](src/tensorflow_code/three_layer.ipynb)
+4. Sample Loss: [sample_loss.ipynb](src/tensorflow_code/sample_loss.ipynb)
+
+## Results
+A final evaluation is concluded in our report.
