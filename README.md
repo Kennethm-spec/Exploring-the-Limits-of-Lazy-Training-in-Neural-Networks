@@ -12,7 +12,7 @@ This repository contains codes for:
 ## Table of Contents
 
 * [About](#about-the-project)
-* [Training_&_Performance](#about-the-project)
+* [Training & Performance Evaluation](#about-the-project)
 
 ## About The Project
 
