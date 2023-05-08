@@ -13,6 +13,7 @@ This repository contains codes for:
 
 * [About](#about-the-project)
 * [Training & Performance Evaluation](#training-and-performance-evaluation)
+* [Results](#results)
 
 ## About The Project
 
