@@ -2,7 +2,7 @@
 # Exploring the Limits of Lazy Training in Neural Networks
 
 This is the repository of source code for our Mathematics of Deep Learning project EECS E6699,
-by: [Maddie](https://theuselessweb.com/), [Sam](https://github.com/sdb2174), and [Kenneth](https://github.com/Kennethm-spec).
+by: [Maddie](https://github.com/maddie-kearns), [Sam](https://github.com/sdb2174), and [Kenneth](https://github.com/Kennethm-spec).
 
 This repository contains codes for:
 
